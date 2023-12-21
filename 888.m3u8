@@ -1,42 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322215003414067_55.png",[BD]浙江衛視@@1
-http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 ,CCTV1
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 ,CCTV9
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1,江苏卫视
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-#EXTINF:-1,深圳卫视
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-#EXTINF:-1,CCTV-1
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-#EXTINF:-1,CCTV-3
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1,CCTV-5
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1,CCTV-5+
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1,CCTV-6
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1,CCTV-7
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-#EXTINF:-1,CCTV-8
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
-#EXTINF:-1,CCTV-8
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-#EXTINF:-1,CCTV-9
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-#EXTINF:-1,CCTV-13
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1,CCTV-14
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-#EXTINF:-1,CCTV-16
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1,CCTV-14
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-
-#EXTINF:-1 ,动漫
-http://epg.112114.xyz/douyu/5187099
-#EXTINF:-1 ,动漫校园
-http://epg.112114.xyz/douyu/9429545
+#EXTINF:-1,CCTV1
+http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+#EXTINF:-1,CCTV15
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1,GOODTV经典音乐河HD
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1,GOODTV旅行HD
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1,TVB 翡翠台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+#EXTINF:-1,斗鱼音乐一FHD
+http://epg.112114.xyz/douyu/9588891
+#EXTINF:-1,CNR经典音乐广播
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1,CNR老年之声
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1,CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
