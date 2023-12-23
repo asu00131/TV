@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1,CCTV1
-http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-#EXTINF:-1,CCTV15
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1,GOODTV经典音乐河HD
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-#EXTINF:-1,GOODTV旅行HD
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-#EXTINF:-1,TVB 翡翠台
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1,斗鱼美食HD1
+http://epg.112114.xyz/douyu/2901080
+#EXTINF:-1,斗鱼美食HD2
+http://epg.112114.xyz/douyu/8144937
 #EXTINF:-1,斗鱼音乐一FHD
 http://epg.112114.xyz/douyu/9588891
+#EXTINF:-1,斗鱼综艺HD3
+http://epg.112114.xyz/douyu/9236042
 #EXTINF:-1,CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1,CNR老年之声
