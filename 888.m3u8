@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,佛山电台飞跃924
+https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
+#EXTINF:-1 ,中山电台快乐888
+https://iovliveplay.radio.cn/fm/1600000001254h.m3u8
 #EXTINF:-1 ,浙江卫视
 http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 #EXTINF:-1 ,CCTV1-综合
